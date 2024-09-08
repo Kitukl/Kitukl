@@ -2,7 +2,7 @@
 
 
 ## Stats 
-<p> 
+<p align = "center"> 
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Kitukl&theme=highcontrast&layout=compact&langs_count=8" alt="languages">
 </p>
 
