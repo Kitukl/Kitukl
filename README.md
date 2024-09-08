@@ -1,9 +1,14 @@
 ## Hi, my name is Oleh. I'm 18 years old and I'm interested in front-end development. I'm also excited about learning best practices in web design and user experience.
 
+
+## Stats 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kitukl&hide_progress=true)
+
 ## Languages
 <p>
   <img src = "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src = "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">>
+  <img src = "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src = "https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
