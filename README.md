@@ -2,6 +2,6 @@
 
 Languages and tools
 
-![HTML](https://img.shields.io/badge/-HTML-f06529?style=for-the-badge&logo=html)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)]
 
 Follow me
