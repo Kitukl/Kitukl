@@ -2,8 +2,9 @@
 
 
 ## Stats 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kitukl)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
+<p> 
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Kitukl&theme=synthwave&layout=compact&langs_count=8" alt="languages">
+</p>
 
 ## Languages
 <p>
